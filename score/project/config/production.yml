@@ -1,0 +1,13 @@
+production:
+
+    display_max_columns: 500
+    novos_csv_file: C:/Users/abeasock/Documents/Novos18092017121500-SMC.csv
+    metlife_csv_file: C:/Users/abeasock/Documents/Metlife18092017121500-SMC.csv 
+    ibg_text_file: C:/Users/abeasock/Documents/Next Gen/Pilot Projects/LatAm/IBGE2.txt
+    rede_cred.xlsx: C:/Users/abeasock/Documents/Rede_Credenciada07_11.xlsx
+    output_file: C:/Users/abeasock/Documents/Next Gen/Pilot Projects/LatAm/execute campaign/Sorocred_octubre_complemento_az.csv
+    log_level: 10
+    logger_name: next_gen
+
+
+

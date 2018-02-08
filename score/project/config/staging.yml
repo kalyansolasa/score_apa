@@ -1,0 +1,11 @@
+staging:
+
+    display_max_columns: 500
+    gbmFit: /home/kalyan/ranjit/sample_proj/data/gbmFit.pkl
+    gbm_input_data_multiline: /home/kalyan/ranjit/sample_proj/data/gbm_input_data_multiline.json
+    output_file: /home/kalyan/ranjit/sample_proj/data/output.json
+    log_level: 10
+    logger_name: next_gen
+    filesize: 1000000
+    backupcount: 12
+

@@ -1,0 +1,6 @@
+base:
+    log_level: 10
+    log_file: /home/kalyan/ranjit/sample_proj/logs/service.log
+    logger_name: next_gen
+    filesize: 1000000
+    backupcount: 12
